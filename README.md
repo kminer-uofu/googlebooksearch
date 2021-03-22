@@ -19,8 +19,8 @@ Screen shot of the app working.
 
 ## Links
 
-Github Repository:
+Github Repository: https://github.com/kminer-uofu/googlebooksearch
 
-Live link:
+Live link:  https://booksearch-kminer.herokuapp.com/
 
 Video Demonstration: https://drive.google.com/file/d/17VvVuuQ2YM_uexWYaNxjURGiKQsH9Zz1/view
